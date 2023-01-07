@@ -1,0 +1,9 @@
+# LICENSE KEY
+SECRET_KEY  = "BISMILLAH"
+
+# WEB SETTINGS
+TITLE       = "Windows 10 usb Installer"
+DESCRIPTION = "This is a website that publishes the latest and useful information for readers about your looking for."
+KEYWORD     = "windows 10 usb installer tool, windows 10 usb installer download, windows 10 usb installer free, windows 10 usb installer iso"
+AUTHOR      = "Richard Carsons"
+FAVICON     = "favicon.webp"
